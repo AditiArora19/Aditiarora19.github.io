@@ -12,11 +12,11 @@ html, body{
   	-o-background-size: cover;
   	background-size: cover;
 }
-h2{
-	color:#e2dbdb;
+
+h1{
+	color:#ffc107;
 	font-size: 3rem;
 }
-
 
 .btn-xl{
 	padding: 1rem 2rem;
